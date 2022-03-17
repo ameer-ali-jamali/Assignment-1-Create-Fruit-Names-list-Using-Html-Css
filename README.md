@@ -1,2 +1,2 @@
 # HTML assignment 1
- Create a sample fruit list website with OL and uL html tags and images and more.
+ Create a sample fruit list website with uL and oL html tags and images and more.
