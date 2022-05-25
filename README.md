@@ -1,2 +1,3 @@
 # HTML Assignment 1 
- Create a sample fruit list website with uL and oL html tags and images and more ..
+This is my first assignement i will create a list of fruits which is pakistan most favrout fruites.
+
